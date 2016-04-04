@@ -11,7 +11,3 @@ Valid Sum
     Press    ${ONE}
     Press    ${EQUAL}
     Result Should Be    ${TWO}
-
-Valid Sum Glerkin
-    [Documentation]    This is documentation for the valid sum Glerkin
-    Log    ${TEST DOCUMENTATION}
