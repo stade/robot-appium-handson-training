@@ -15,4 +15,3 @@ Valid Sum
 Valid Sum Glerkin
     [Documentation]    This is documentation for the valid sum Glerkin
     Log    ${TEST DOCUMENTATION}
-    
